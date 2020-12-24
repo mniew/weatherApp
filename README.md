@@ -1,5 +1,6 @@
 # Basic Weather App
-chek it our here https://bit.ly/2JgII2h
+App designed to work on mobile devices
+Check it our here https://bit.ly/2JgII2h
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
